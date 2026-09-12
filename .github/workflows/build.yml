@@ -51,5 +51,5 @@ jobs:
           name: MedicineAlarm-APK
           path: '**/app/build/outputs/apk/debug/*.apk'
 
-path: .github/workflows/build.yml
+path:
 
